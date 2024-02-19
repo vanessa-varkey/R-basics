@@ -4,3 +4,4 @@ This is a repository for Learning R
 [ ] I am going to first module.
 [x] I finished setting up git
 [x] I am testing the user configs
+[x] I am global settngs
